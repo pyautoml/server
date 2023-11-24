@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Ban users who send more than N requests per minute.
 
 LOG_FILE="" # specify log file, e.g. "/var/log/nginx/access.log"
